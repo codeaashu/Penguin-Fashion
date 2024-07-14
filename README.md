@@ -9,6 +9,8 @@
 
 `Penguin Fashion is a shoe collection Website Template with responsive ui for desktop and mobile device built with HTML, CSS and Bootstrap.`
 
+  <a href="https://penguin-fashion-aashuu.vercel.app/"><strong>➥ Live Demo</strong></a>
+
 </div>
 
 ![Screenshot](https://user-images.githubusercontent.com/56265819/139070190-d3e44872-d542-4f0d-bd72-bd470b4c3c23.png)
@@ -28,7 +30,3 @@ Footer
 ## Technologies
 
 `HTML` `CSS` `Bootstrap`
-
-## Available Links
-
-[Visit Website](https://penguin-fashion-aashuu.vercel.app/)
