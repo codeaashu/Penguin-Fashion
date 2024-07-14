@@ -31,4 +31,4 @@ Footer
 
 ## Available Links
 
-[Visit Website](https://mustaquenadim.github.io/responsive-landing-page/)
+[Visit Website](https://penguin-fashion-aashuu.vercel.app/)
