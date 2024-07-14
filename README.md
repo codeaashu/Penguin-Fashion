@@ -4,8 +4,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/codeaashu/Penguin-Fashion?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Penguin-Fashion?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
-
-<br />
+<hr>
   <h1 align="center">Penguin Fashion</h1>
 
 `Penguin Fashion is a shoe collection Website Template with responsive ui for desktop and mobile device built with HTML, CSS and Bootstrap.`
