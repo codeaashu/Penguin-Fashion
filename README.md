@@ -1,8 +1,16 @@
-[Programming Hero](https://web.programming-hero.com/) - Complete Web Development with Jhankar Mahbub `Batch 3`
+<div align="center">
 
-# Assignment 2 : Responsive Landing Page
+![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/Penguin-Fashion)
+  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/Penguin-Fashion?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Penguin-Fashion?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 
-A landing website with responsive ui for desktop and mobile device built with HTML, CSS and Bootstrap.
+<br />
+  <h1 align="center">Penguin Fashion</h1>
+
+`Penguin Fashion is a shoe collection Website Template with responsive ui for desktop and mobile device built with HTML, CSS and Bootstrap.`
+
+</div>
 
 ![Screenshot](https://user-images.githubusercontent.com/56265819/139070190-d3e44872-d542-4f0d-bd72-bd470b4c3c23.png)
 
@@ -24,4 +32,4 @@ Footer
 
 ## Available Links
 
-[Visit Website](https://mustaquenadim.github.io/responsive-landing-page/) | [Watch Code](https://github.com/mustaquenadim/responsive-landing-page)
+[Visit Website](https://mustaquenadim.github.io/responsive-landing-page/)
